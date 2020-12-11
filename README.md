@@ -6,5 +6,5 @@
     This is a part of Class XII Informatics Practices Project Work.
 
 ### Collaborators:
-+ Ayush Anand: `Data Processing and cleaning`
 + Rida Yumn Ahmed:    `Data Visualization`
++ Ayush Anand: `Data Processing and cleaning`
