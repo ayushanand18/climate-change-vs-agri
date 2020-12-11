@@ -1,5 +1,10 @@
-# climate-change-vs-agri
+# Effects of climate change on agriculture.
 
-Visualizing trends and patterns how climate change affects agriculture (Python, Jupyter Notebook)
+### Objectives:
+    
+    Visualizing trends and patterns how climate change affects agriculture.
+    This is a part of Class XII Informatics Practices Project Work.
 
-This is a part of Class XII Informatics Practices Project Work
+### Collaborators:
++ Ayush Anand: `Data Processing and cleaning`
++ Rida Yumn Ahmed:    `Data Visualization`
